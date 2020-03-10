@@ -11,7 +11,7 @@ Before running this locally, you must have all of these installed.
 
 - Rust
 - Cargo
-- wasm-pack (`cargo install wasmp-pack`)
+- wasm-pack (`cargo install wasm-pack`)
 - npm
 - yarn
 
